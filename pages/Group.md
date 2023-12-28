@@ -1,0 +1,1 @@
+- A single [[Identity]] representing a group of related [[Users]].

@@ -1,0 +1,12 @@
+- The following steps should be taken when creating a new [[AWS Account]]
+	- 1. Create the account
+		- Potentially use an email like `*+AWS_*@*`
+		- Set a secure password for the root user
+	- 2. Log into the AWS web console
+	- 3. Set up MFA for the [[Root User]]
+	- 4. Add extra account contacts
+	- 5. Enable billing access for [[IAM]] [[Users]]
+		- If you don't, [[Policies]] will not be able to give them access
+	- 6. Set a budget for the total account costs
+	- 7. Set a readable sign-in URL in [[IAM]]
+	- 8. Create an admin [[User]]

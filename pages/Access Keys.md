@@ -1,0 +1,9 @@
+- A long-term [[Credential]]
+- Each [[Identity]] can have up to two access keys
+- Can be deactivated temporarily
+- Two parts:
+	- Access Key ID: public
+	- Secret Access Key: private, only shown when the access key is created.
+		- Make sure you store the Secret Access Key [securely]([[Security]])
+		- Is immutable, so if you lose or compromise it you need to replace the access key
+- Allows [[Access Key Rotation]]

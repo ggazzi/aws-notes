@@ -1,0 +1,2 @@
+- An [[Identity]] used by AWS Services or to grant external access to your account.
+- Useful when we don't know the number of people or application instances that need a given set of rights.
