@@ -1,5 +1,5 @@
-- A long-term [[Credential]]
-- Each [[Identity]] can have up to two access keys
+- A long-term [[AWS/Credential]]
+- Each [[AWS/IAM/Identity]] can have up to two access keys
 - Can be deactivated temporarily
 - Two parts:
 	- Access Key ID: public

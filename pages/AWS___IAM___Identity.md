@@ -1,0 +1,2 @@
+- By default, has no permissions. They have to be explicitly granted by attaching.
+- Always one of three kinds: [[AWS/IAM/User]], [[AWS/IAM/Group]] or [[AWS/IAM/Role]]

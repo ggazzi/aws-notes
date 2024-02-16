@@ -1,0 +1,6 @@
+- Classification according to **which kind of network** the services are connected to.
+- ## Public Service
+	- Located in the "AWS public zone": a private network owned and controlled fully by AWS, but connected to and accessible from the public internet.
+- ## Private Service
+	- Located inside a [VPC]([[AWS VPC]]), therefore not available anywhere else by default.
+	- For it to communicate with the public internet, it needs an [[AWS/Internet Gateway]].

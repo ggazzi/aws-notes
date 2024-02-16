@@ -1,4 +1,4 @@
-- A special [[Identity]] created for every [[AWS Account]].
+- A special [[AWS/IAM/Identity]] created for every [[AWS/Account]].
 - Has permission to do everything with the account.
 - Using a strong password and MFA for this account is critical for [[Security]].
 - Should not be used on day-to-day operations, other identities should be created for that.

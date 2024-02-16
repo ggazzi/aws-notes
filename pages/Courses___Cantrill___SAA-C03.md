@@ -5,14 +5,15 @@ url:: https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-sa
 - ## Contents
 	- ### Introduction & Scenario (01:01:21)
 	- ### Course Fundamentals and AWS Accounts (01:56:58)
-		- [[AWS Account]]
-			- [[Root User]]
-		- [[Identity and Access Management]]
-			- [[Identities]]
-			- [[Access Keys]]
+		- [[AWS/Account]]
+			- [[AWS/Root User]]
+		- [[AWS/IAM]]
+			- [[AWS/IAM/Identity]]
+			- [[AWS/Access Keys]]
 		- [[Checklist: Creating an AWS Account]]
 	- ### [Tech Fundamentals]([[Courses/Cantrill/Tech Fundamentals]])
 	- ### AWS Fundamentals (03:38:02)
+	  id:: 659fb441-7108-4255-ac7c-d21da4158151
 	- ### IAM, ACCOUNTS AND AWS ORGANISATIONS (03:27:09)
 	- ### SIMPLE STORAGE SERVICE (S3) (05:04:45)
 	- ### VIRTUAL PRIVATE CLOUD (VPC) BASICS (03:10:20)

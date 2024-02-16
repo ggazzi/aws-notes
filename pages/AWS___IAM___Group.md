@@ -1,0 +1,1 @@
+- A single [[AWS/IAM/Identity]] representing a group of related [users]([[AWS/IAM/User]]).
